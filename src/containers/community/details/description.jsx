@@ -6,7 +6,7 @@ const EditProfileImage = ({ community, id }) => {
                 <div className="container">
                     <div className="row d-flex align-items-center">
                         <div className="col-12">
-                            <div className="rn-address">
+                            <div className="rn-address mt--15">
                                 <div className="inner">
                                     <div>
                                         {/* <p style={{ padding: "1rem 0" }}>

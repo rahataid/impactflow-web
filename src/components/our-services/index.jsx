@@ -1,8 +1,7 @@
-import PropTypes from "prop-types";
 import clsx from "clsx";
+import PropTypes from "prop-types";
 // import Button from "@ui/button";
-import Link from "next/link";
-import { TextType, SectionTitleType } from "@utils/types";
+import { SectionTitleType, TextType } from "@utils/types";
 
 const OurServices = ({ space, className }) => (
     <div
@@ -129,13 +128,13 @@ const OurServices = ({ space, className }) => (
                     </div>
                 </div>
                 <div className="contact-cta-box-short spacing">
-                    <h3>Let's Chat !</h3>
+                    <h3>Let's Chat</h3>
 
                     <a
                         href="/contact-form"
                         className="btn btn-medium btn-primary"
                     >
-                        Try Our Demo
+                        Schedule a Demo
                     </a>
                 </div>
             </div>

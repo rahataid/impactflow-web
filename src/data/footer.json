@@ -107,20 +107,5 @@
                 }
             }
         ]
-    },
-    "footer-link-widget": {
-        "menu": [
-            {
-                "id": 1,
-                "text": "Terms",
-                "path": "/terms-condition"
-            },
-            {
-                "id": 2,
-                "text": "Privacy Policy",
-                "path": "/privacy-policy"
-            }
-        ]
-    },
-    "copyright_text": "©2022 Nuron, Inc. All rights reserved"
+    }
 }

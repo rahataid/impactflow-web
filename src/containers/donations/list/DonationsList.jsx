@@ -18,7 +18,7 @@ const DonationsList = ({ className, space, donations }) => {
             <div className="container">
                 <div className="row mb--50 align-items-center">
                     <div className="col-lg-6 col-md-6 col-sm-6 col-12">
-                        <h3>Impact Flow</h3>
+                        <h3>Recent Impacts</h3>
                     </div>
                 </div>
 
@@ -45,7 +45,7 @@ const DonationsList = ({ className, space, donations }) => {
                                 color="primary-alta"
                                 className={!hasMore ? "disabled" : ""}
                                 fullwidth
-                                // onClick={loadMoreHandler}
+                            // onClick={loadMoreHandler}
                             >
                                 {hasMore ? (
                                     <>View More Items</>

@@ -19,13 +19,13 @@ const AboutUs = ({ space, className }) => (
                     </div>
                 </div>
                 <div className="col-lg-7">
-                    <div className="rn-about-wrapper">
+                    <div>
                         <img
                             src="https://assets.rumsan.com/rumsan-group/rahat-new-logo-color.png"
                             alt=""
                             style={{ width: "256px", marginLeft: "-24px" }}
                         />
-                        <h2 style={{ fontSize: "40px", fontWeight: "300" }}>
+                        <h2 style={{ fontSize: "35px", fontWeight: "300" }}>
                             An open-source blockchain-based{" "}
                             <span style={{ color: "#007bb6" }}>
                                 {" "}
